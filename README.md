@@ -5,7 +5,7 @@
 
 ## 📘 Overview
 
-This project is the first module in a broader portfolio analyzing Reddit data.
+A portfolio analyzing Reddit data.
 
 
 ## ⚙️ Tools Used
